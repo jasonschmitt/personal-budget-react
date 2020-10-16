@@ -1,4 +1,6 @@
 import React from 'react';
+import './Menu.scss';
+
 import {
   Link
 } from "react-router-dom";
